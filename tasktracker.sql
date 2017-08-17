@@ -16,7 +16,7 @@ CREATE DATABASE /*!32312 IF NOT EXISTS*/`tasktracker` /*!40100 DEFAULT CHARACTER
 
 /*Table structure for table `employee_leave` */
 
-DROP TABLE IF EXISTS `employee_leave`;
+DROP TABLE IF EXISTS `employee_leave`;456
 
 CREATE TABLE `employee_leave` (
   `leave_id` bigint(20) NOT NULL AUTO_INCREMENT,
